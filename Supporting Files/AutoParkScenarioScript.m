@@ -1,4 +1,4 @@
-rrAppPath = "C:\Program Files\RoadRunner R2023b\bin\win64";
+rrAppPath = "C:\Program Files\RoadRunner R2024a\bin\win64";
 rrProjectPath = "C:\Users\varun\ME599\autopark\AutoPark";
 s = settings;
 s.roadrunner.application.InstallationFolder.TemporaryValue = rrAppPath;
